@@ -1,2 +1,2 @@
 # myJavaScriptFiles
-embrace my javascript learning journey😎
+embrace my javascript✨ learning journey 😎
