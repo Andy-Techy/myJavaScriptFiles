@@ -1,29 +1,7 @@
 // this is my first js code !
 console.log ('Hello World');
 
-// let name = "Andy" ;
-// console.log (name);
 
-// // declaring variable names
-
-// // 1. cannot ba a reserve word
-// // 2. should be meaningful and descriptive
-// // 3. cannot start with a number
-// // 4. cannot contain a space or hyphen
-// // 5. are case-sensitive
-
-
-// // constants
-// let interestRate = 0.3;
-// interestRate = 1;
-// console.log (interestRate);
-
-
-// let me = 'Andy'; // string 
-// let age = 20; // number
-// let isApproved = false; // boolean 
-// let firstName = undefined;
-// let lastName = null;
 
 
 // //objects
