@@ -34,9 +34,11 @@ function FoodAndTipCalculator(food, tip){
 //ES6
 // A-R-R-0-W   F-U-N-C-T-I-0-N-S
 //explicit arrow function - return inclusive
-const sumArrowFunction = (a, b) => {
+const sumArrowFunctionExplicit = (a, b) => {
     return a + b
 };
+
+
 
 //implicit arrow function  - return is removed
 const sumArrowFunctionImplicit = (a, b) => a + b;
